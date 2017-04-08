@@ -16,5 +16,5 @@ razaoGatoPorRato = gatos / ratos
 
 tempoFinal = tempoGastoGatoPorRato /razaoGatoPorRato
 
-print(gatos, " levarao ", tempoFinal, " minutos para matar ", ratos, " ratos.\n")
+print(gatos, " gatos levarao ", tempoFinal, " minutos para matar ", ratos, " ratos.\n")
 
